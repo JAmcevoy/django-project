@@ -1,1 +1,1 @@
-web: gunicorn django-unchained.wsgi
+web: gunicorn my_project.wsgi
